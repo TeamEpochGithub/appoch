@@ -1,4 +1,5 @@
 """Module for example training block."""
+
 from dataclasses import dataclass
 
 import wandb

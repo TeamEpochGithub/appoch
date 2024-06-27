@@ -1,4 +1,5 @@
 """Schema for the cross validation configuration."""
+
 from dataclasses import dataclass
 from typing import Any
 

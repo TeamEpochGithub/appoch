@@ -1,4 +1,5 @@
 """A logger that logs to the terminal and to W&B."""
+
 from typing import Any
 
 import wandb

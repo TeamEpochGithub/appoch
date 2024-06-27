@@ -1,4 +1,5 @@
 """File containing functions related to setting up the pipeline."""
+
 from enum import Enum
 from typing import Any
 

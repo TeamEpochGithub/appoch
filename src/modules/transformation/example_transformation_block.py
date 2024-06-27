@@ -1,4 +1,5 @@
 """Example transformation block for the transformation pipeline."""
+
 import numpy as np
 import numpy.typing as npt
 

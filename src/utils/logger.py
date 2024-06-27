@@ -1,4 +1,5 @@
 """Setup the logger."""
+
 import logging
 import sys
 from types import TracebackType

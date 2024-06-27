@@ -1,4 +1,5 @@
 """Lock that makes sure only one instance of the script is running at a time."""
+
 import os
 import sys
 import time

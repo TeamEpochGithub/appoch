@@ -1,4 +1,5 @@
 """File containing functions related to setting up Weights and Biases."""
+
 import re
 from collections.abc import Callable
 from pathlib import Path

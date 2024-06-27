@@ -1,4 +1,5 @@
 """File containing functions related to setting up runtime arguments for pipelines."""
+
 from typing import Any
 
 from epochalyst.pipeline.ensemble import EnsemblePipeline

@@ -1,4 +1,5 @@
 """Set seed for reproducibility."""
+
 import torch
 
 from src.utils.logger import logger

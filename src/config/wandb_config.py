@@ -1,4 +1,5 @@
 """Schemas for the Weights & Biases configuration."""
+
 from dataclasses import dataclass
 
 
